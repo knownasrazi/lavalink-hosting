@@ -107,30 +107,6 @@ HeavenCloud provides free public Lavalink nodes for Discord music bots — runni
   secure: true,
   version: "v4"
 }
-
-{
-  host: "sg-1.nazha.online",
-  port: 443,
-  password: "https://discord.gg/XeSCnk57ZF",
-  secure: true,
-  version: "v4"
-}
-
-{
-  host: "sg-2.nazha.online",
-  port: 443,
-  password: "https://discord.gg/XeSCnk57ZF",
-  secure: true,
-  version: "v4"
-}
-
-{
-  host: "sg-3.nazha.online",
-  port: 443,
-  password: "https://discord.gg/XeSCnk57ZF",
-  secure: true,
-  version: "v4"
-}
 ```
 
 ---
